@@ -14,3 +14,11 @@
     * Each event should be able to display whether it had been attended or not
     * Have a button that opens a form letting the user add a new item to the Timeline.
     * Sort by date, in descending order, clearly showing which items are in the future, and which have already passed, as in the image.
+
+## Connecting ReactJS Frontend with NodeJs Backend
+* Setting up a Back-end of the app using "express-generator".
+* Using "create-react-app" to scaffold a front-end Reactjs app.
+* Using "axios" for cross-origin API calls
+* Handling POST request on our server
+* Using "express-fileupload", a promise based library
+* Lastly, connecting a Reactjs and Node.js
