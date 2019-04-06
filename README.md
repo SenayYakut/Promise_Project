@@ -16,9 +16,9 @@
     * Sort by date, in descending order, clearly showing which items are in the future, and which have already passed, as in the image.
 
 ## Connecting ReactJS Frontend with NodeJs Backend
-* Setting up a Back-end of the app using "express-generator".
-* Using "create-react-app" to scaffold a front-end Reactjs app.
-* Using "axios" for cross-origin API calls
+* Setting up a Back-end of the app using `express-generator`.
+* Using `create-react-app` to scaffold a front-end Reactjs app.
+* Using `axios` for cross-origin API calls
 * Handling POST request on our server
-* Using "express-fileupload", a promise based library
+* Using `express-fileupload`, a promise based library
 * Lastly, connecting a Reactjs and Node.js
